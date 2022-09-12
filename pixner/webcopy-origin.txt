@@ -1,0 +1,356 @@
+Uri: https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400;500;600;700&family=Montserrat:wght@200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Users\abner-sia\Downloads\pixner.net\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/chakrapetch/v9/cIf6MapbsEk7TDLdtEz1BwkmmA.ttf
+File Name: C:\Users\abner-sia\Downloads\pixner.net\s\chakrapetch\v9\cIf6MapbsEk7TDLdtEz1BwkmmA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkebIlFQA.ttf
+File Name: C:\Users\abner-sia\Downloads\pixner.net\s\chakrapetch\v9\cIflMapbsEk7TDLdtEz1BwkebIlFQA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkeJI9FQA.ttf
+File Name: C:\Users\abner-sia\Downloads\pixner.net\s\chakrapetch\v9\cIflMapbsEk7TDLdtEz1BwkeJI9FQA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkeNIhFQA.ttf
+File Name: C:\Users\abner-sia\Downloads\pixner.net\s\chakrapetch\v9\cIflMapbsEk7TDLdtEz1BwkeNIhFQA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/chakrapetch/v9/cIflMapbsEk7TDLdtEz1BwkeQI5FQA.ttf
+File Name: C:\Users\abner-sia\Downloads\pixner.net\s\chakrapetch\v9\cIflMapbsEk7TDLdtEz1BwkeQI5FQA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Users\abner-sia\Downloads\pixner.net\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Users\abner-sia\Downloads\pixner.net\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Users\abner-sia\Downloads\pixner.net\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Users\abner-sia\Downloads\pixner.net\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Users\abner-sia\Downloads\pixner.net\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Users\abner-sia\Downloads\pixner.net\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Users\abner-sia\Downloads\pixner.net\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Users\abner-sia\Downloads\pixner.net\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://pixner.net/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\abner-sia\Downloads\pixner.net\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://pixner.net/xmiro/main/assets/css/arafat-font.css
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\css\arafat-font.css
+Content Type: text/css
+
+Uri: https://pixner.net/xmiro/main/assets/css/bootstrap.min.css
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://pixner.net/xmiro/main/assets/css/fontawesome.min.css
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://pixner.net/xmiro/main/assets/css/jquery-ui.css
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\css\jquery-ui.css
+Content Type: text/css
+
+Uri: https://pixner.net/xmiro/main/assets/css/plugin/animate.css
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\css\plugin\animate.css
+Content Type: text/css
+
+Uri: https://pixner.net/xmiro/main/assets/css/plugin/magnific-popup.css
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\css\plugin\magnific-popup.css
+Content Type: text/css
+
+Uri: https://pixner.net/xmiro/main/assets/css/plugin/slick.css
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\css\plugin\slick.css
+Content Type: text/css
+
+Uri: https://pixner.net/xmiro/main/assets/css/style.css
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\css\style.css
+Content Type: text/css
+
+Uri: https://pixner.net/xmiro/main/assets/images/about-us-bg.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\about-us-bg.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/about-us-dark-bg.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\about-us-dark-bg.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/app-store.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\app-store.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/contact-circle.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\contact-circle.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/fav.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\fav.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/footer-bg.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\footer-bg.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/gallery-img-01.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\gallery-img-01.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/gallery-img-02.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\gallery-img-02.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/gallery-img-03.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\gallery-img-03.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/game-img-1.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\game-img-1.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/game-img-2.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\game-img-2.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/game-img-3.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\game-img-3.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/game-img-4.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\game-img-4.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/icon/email.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\icon\email.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/icon/phone.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\icon\phone.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/icon/play-icon.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\icon\play-icon.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/icon/send-icon.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\icon\send-icon.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/index-illus.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\index-illus.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/logo-dark.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\logo-dark.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/logo.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/play-store.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\play-store.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/preloader-dark.gif
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\preloader-dark.gif
+Content Type: image/gif
+
+Uri: https://pixner.net/xmiro/main/assets/images/preloader-light.gif
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\preloader-light.gif
+Content Type: image/gif
+
+Uri: https://pixner.net/xmiro/main/assets/images/team-bg.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\team-bg.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/team-dark-bg.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\team-dark-bg.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/team-member-1.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\team-member-1.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/team-member-2.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\team-member-2.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/team-member-3.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\team-member-3.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/team-member-4.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\team-member-4.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/images/video-bg.png
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\images\video-bg.png
+Content Type: image/png
+
+Uri: https://pixner.net/xmiro/main/assets/js/bootstrap.min.js
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://pixner.net/xmiro/main/assets/js/fontawesome.js
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\js\fontawesome.js
+Content Type: application/javascript
+
+Uri: https://pixner.net/xmiro/main/assets/js/jquery-ui.js
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\js\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://pixner.net/xmiro/main/assets/js/jquery.min.js
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://pixner.net/xmiro/main/assets/js/main.js
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://pixner.net/xmiro/main/assets/js/plugin/counter.js
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\js\plugin\counter.js
+Content Type: application/javascript
+
+Uri: https://pixner.net/xmiro/main/assets/js/plugin/jquery.magnific-popup.min.js
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\js\plugin\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://pixner.net/xmiro/main/assets/js/plugin/plugin.js
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\js\plugin\plugin.js
+Content Type: application/javascript
+
+Uri: https://pixner.net/xmiro/main/assets/js/plugin/slick.js
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\js\plugin\slick.js
+Content Type: application/javascript
+
+Uri: https://pixner.net/xmiro/main/assets/js/plugin/waypoint.min.js
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\js\plugin\waypoint.min.js
+Content Type: application/javascript
+
+Uri: https://pixner.net/xmiro/main/assets/js/plugin/wow.min.js
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\js\plugin\wow.min.js
+Content Type: application/javascript
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/arafat-font.eot
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\arafat-font.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/arafat-font.eot?
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\arafat-font-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/arafat-font.svg
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\arafat-font.svg
+Content Type: image/svg+xml
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/arafat-font.ttf
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\arafat-font.ttf
+Content Type: font/ttf
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/arafat-font.woff
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\arafat-font.woff
+Content Type: font/woff
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/fa-brands-400.eot
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/fa-brands-400.eot?
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/fa-brands-400.svg
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/fa-brands-400.woff
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/fa-regular-400.eot
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/fa-regular-400.eot?
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/fa-regular-400.svg
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/fa-regular-400.woff
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/fa-solid-900.eot
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/fa-solid-900.eot?
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/fa-solid-900.svg
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/fa-solid-900.woff
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://pixner.net/xmiro/main/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://pixner.net/xmiro/main/index-dark.html
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\index-dark.html
+Content Type: text/html
+
+Uri: https://pixner.net/xmiro/main/index-light.html
+File Name: C:\Users\abner-sia\Downloads\pixner.net\xmiro\main\index-light.html
+Content Type: text/html
+
